@@ -19,6 +19,6 @@ git clone https://github.com/siennatariman/forward-finite-difference-cpp.git
 
 > Windows Terminal: <br>
 + open the command line and traverse to the `forward-finiate-difference-cpp/forward-difference` directory where `main.cpp` is located
-+ then compile to the code: `gcc main.cpp -o ffdOutput.exe` (wherein an executable file named `ffdOutput.exe` will be created)
-+ and run the code: `ffdOutput.exe`
++ then compile: `gcc main.cpp -o ffdOutput.exe` (wherein an executable file named `ffdOutput.exe` will be created)
++ and: `ffdOutput.exe`
 
